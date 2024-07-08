@@ -129,3 +129,45 @@
 15.2 Parafusos
 15.3 Identificar posição dos componentes
 15.4 Lavagem
+
+16 Montagem de conjuntos mecânicos
+16.1 Recomendações
+16.2 Montagem peça a peça
+16.3 Montagem em serie
+
+17 Recuperação de elementos mecânicos
+17.1 Recuperação de subconjuntos com movimentos
+17.2 Eixos
+17.3 Mancais
+17.4 Engrenagens
+
+18 Travas e vedantes químicos
+18.1 Trava quimica anaeróbica
+18.2 Vedante quimico
+18.3 Vedação de superfícies planas
+18.4 Fixação anaeróbica de rolamentos
+18.5 Desmontagem
+
+19 Mancais de Rolamento I
+19.1 Mancais são suportes de apoio para rolamentos e eixos que são elementos girantes de uma maquina
+19.2 Mancais de rolamento e mancais de deslizamento
+19.3 Verificar condições de um rolamento pelo tato, audição ou fatores como a temperatura
+19.4 Verificação e inspeção de rolamentos em conjuntos mecanicos
+19.5 Desmontagem e montagem com
+19.5.1 Interferência no eixo
+19.5.2 Interferência na caixa
+
+20 Mancais de Rolamento II
+20.1 Falhas e causas
+20.2 Falhas em estagio primario: desgaste, endentações, arranhamento, corrosão e danos por corrente elétrica
+20.3 Falhas em estágio secundario: descascamento e trincas
+20.4 Correção e manutenção preventiva
+
+21 Mancais de deslizamento 
+21.1 Importancia dos mancais
+21.2 Parametros para construção dos mancais
+21.3 Inspeção e frequencia
+21.4 Limpeza, alinhamento e controle da folga dos mancais de deslizamento
+21.5 Vantagens e desvantagens
+21.6 Nivelamento e alinhamento bem como o controle dos eixos dos mancais
+21.7 Formas construtivas e procedimentos de ajustes
