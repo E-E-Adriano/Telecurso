@@ -171,3 +171,39 @@
 21.5 Vantagens e desvantagens
 21.6 Nivelamento e alinhamento bem como o controle dos eixos dos mancais
 21.7 Formas construtivas e procedimentos de ajustes
+
+22 Eixos e Correntes
+22.1 Tipos de eixos
+22.2 Montagem e desmontagem dos eixos
+22.3 Tipos de correntes e suas aplicações
+22.4 Manutenção das correntes
+
+23 Polias e Correias I
+23.1 Tabela de dimensionamento das polias em 'V'
+23.2 Cuidados e Alinhamento das polias
+23.3 Colocação, tensionamento e manutenção das correias
+
+24 Polias e Correias II
+24.1 Danos típicos das correias
+24.2 Problemas da correias, causas e soluções
+24.3 Vantagens das transmissãos por correias em 'V'
+
+25 Variadores e redutores de velocidade e manutenção de engrenagens
+25.1 Variadores de velocidade
+25.2 Redutores de velocidade
+25.3 Manutenção das engrenagens e sintomas de defeitos
+25.4 Montar e desmontar engrenagens dos conjuntos mecânicos
+
+26 Sistemas de vedação I
+26.1 Material de um vedador compativel com o produto a ser vedado
+26.2 Elementos de vedação
+26.2.1 Juntas de borracha, papelão, metalicas, mortiça, amianto
+26.2.2 Anéis de borracha
+26.2.3 Retentores: Reter óleo, graxa e outros fluidos do interior de uma maquina
+26.3 Montagem do retentor: Prensa hidraulica, balancin ou dispositivo adequado
+
+27 Sistemas de vedação II
+27.1 Gaxeta: Sistema de vedação que permite a passagem de fluidos ou gases
+27.1.1 Em forma de corda ou anel
+27.2 Selo mecânico: Usa principios hidraulicos para reter fluidos, vedação total
+27.2.1 Vedação feito perpendicular ao eixo atraves dos contatos deslizantes entre as faces da sede e do anel de selagem
