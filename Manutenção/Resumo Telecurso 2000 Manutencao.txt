@@ -207,3 +207,10 @@
 27.1.1 Em forma de corda ou anel
 27.2 Selo mecânico: Usa principios hidraulicos para reter fluidos, vedação total
 27.2.1 Vedação feito perpendicular ao eixo atraves dos contatos deslizantes entre as faces da sede e do anel de selagem
+
+28 Alinhamento geometrico e nivelamento de maquinas e equipamentos
+28.1 Alinhamento geometrico: Harmonio de funcionamento dos diversos conjuntos mecanicos de uma maquina
+28.2 Centro de massa: importante para alinhamento geometrico
+28.3 Guias de deslizamento sendo substituido por guias lineares rolamentadas
+28.4 Amarração
+28.5 Nivelamento sempre iniciar no sentido longitudenal 
