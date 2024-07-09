@@ -214,3 +214,47 @@
 28.3 Guias de deslizamento sendo substituido por guias lineares rolamentadas
 28.4 Amarração
 28.5 Nivelamento sempre iniciar no sentido longitudenal 
+
+29 Recuperação de guias ou vias deslizantes I
+29.1 Guias deslizantes é feito de ferro fundido
+29.2 Maquinas CNS tem guias deslizantes com corpos rolantes chamadas de rolamentadas
+29.3 Manutenção feita de forma periodica onde observa as folgas, lubrificação e protetores das guias
+29.4 Revestimento deslizante usado para recuperação das guias
+
+30 Recuperação de guias ou vias deslizantes II
+30.1 Rasqueteamento: processo mecanico de recuperação de guias de deslizamento
+30.2 Rasquete fabricado em aço-liga para ferramentas
+30.3 Unidade de Qualidade de uma superficie rasqueteada é dada pelo numero de pontos em área igual a 25mm²
+30.4 Controle do grau de rasqueteamento feito com mesa ou régua de controle
+30.5 Cilindros de controle usado para verificar o grau de rasqueteamento de superficies curvas
+
+31 Lubrificação indústrial I
+31.1 Lubrificação
+31.2 Características dos lubrificantes
+31.3 Lubrificação de máquinas
+
+32 Lubrificação indústrial II
+32.1 Lubrificação na linha de produção
+32.2 Critérios que orientam a lubrificação
+32.3 Equipamentos usados na lubrificação
+32.4 Estocagem adequada de lubrificantes
+32.5 Como são feitos os programas de lubrificação
+
+33 Análise de lubrificantes por meio da técnica ferrográfica
+33.1 Manutenção preditiva atraves do exame do lubrificante usado nas maquinas
+33.2 Ferrografia: estudo das particulas de metal geradas pelo desgaste
+33.3 Ferrografo
+33.4 Ferrograma
+33.4.1 Ferrografia quantitativa e ferrografia analítica
+33.5 Pontos e métodos de coleta
+
+34 Análise de vibrações
+34.1 Detectar falhas de componentes de maquinas
+34.2 Quais grandezas definem o movimento vibratorio
+34.3 Sensores e analisadores
+
+35 Aplicações da manutenção
+35.1 Manutenção em industrial têxtil
+35.1.1 Manutenção corretiva, preventiva, preditiva e manutenção pró-ativa
+35.2 Manutenção das aeronáves
+35.2.1 Manutenção em trânsito, diária e manutenção em check
