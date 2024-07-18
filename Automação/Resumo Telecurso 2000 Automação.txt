@@ -9,4 +9,18 @@ Resumo Telecurso 2000 Automação
 1.6 Aplicações
 
 2 Ciclo de um produto
-2.1
+2.1 Inovações tecnológicas
+2.2 Projeto detalhado
+2.3 Folha de processo
+2.4 Automação = + produtividade - custos
+
+3 Eletricidade e automação
+3.1 Eletricidade: manifestação de uma forma de energia associada ao movimento ordenado dos elétrons
+3.2 Polo negativo tem mais eletrons que o polo positivo
+3.3 Corrente continua: Eletrons movimentam-se sempre no mesmo sentido
+3.4 Resistência elétrica: Oposição a passagem de corrente elétrica
+3.5 Tensão elétrica: diferença de potencial elétrico capaz de gerar corrente elétrica
+3.6 Potência elétrica: Energia eletrica desenvolvida num intervalo de tempo
+
+4 Eletricidade: acionamento de motores elétricos
+
