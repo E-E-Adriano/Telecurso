@@ -23,4 +23,9 @@ Resumo Telecurso 2000 Automação
 3.6 Potência elétrica: Energia eletrica desenvolvida num intervalo de tempo
 
 4 Eletricidade: acionamento de motores elétricos
+4.1 Motores elétricos: campo magnético
+4.2 Estator (fixo) e Rotor (móvel)
+4.3 Motor de passos (CC) e Motor trifásico (CA)
 
+5 Atuadores e Válvulas
+5.1 
