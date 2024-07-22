@@ -28,4 +28,11 @@ Resumo Telecurso 2000 Automação
 4.3 Motor de passos (CC) e Motor trifásico (CA)
 
 5 Atuadores e Válvulas
-5.1 
+5.1 Pneumática usa ar comprimido como fluido
+5.2 Hidraulica usa oléo sobre pressão como fluido
+5.3 Atuadores transforma energia de pressão de fluido em energia mecânica
+5.4 Válvulas direcionam os fluidos nos circuitos hidraulicos e pneumaticos
+5.4.1 Acionadas manualmente, mecanicamente, eletricamente e atraves do próprio fluido
+
+6 Circuitos pneumáticos e hidráulicos
+6.1 
