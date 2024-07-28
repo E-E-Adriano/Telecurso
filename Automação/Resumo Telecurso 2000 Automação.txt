@@ -35,4 +35,9 @@ Resumo Telecurso 2000 Automação
 5.4.1 Acionadas manualmente, mecanicamente, eletricamente e atraves do próprio fluido
 
 6 Circuitos pneumáticos e hidráulicos
-6.1 
+6.1 Símbolos
+6.2 Diagrama de circuito pneumático
+6.3 Diagrama de circuito hidráulico
+
+7 Sensoriamento
+7.1 
