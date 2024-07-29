@@ -40,4 +40,36 @@ Resumo Telecurso 2000 Automação
 6.3 Diagrama de circuito hidráulico
 
 7 Sensoriamento
-7.1 
+7.1 Sensor é um dispositivo de controle de um sistema
+7.2 Medidores indicam a grandeza medida através de grandezas elétricas
+7.3 Sistemas de malha aberta e malha fechada
+7.4 Sensores indicam variações de grandeza analógica ou digital
+
+8 Eletrônica: conceitos básicos
+8.1 Eletrônica
+8.2 Componentes eletrônicos e seus simbolos
+8.3 Circuito de controle transistorizado
+
+9 Eletrônica: circuitos especiais
+9.1 Tiristores acionam cargas de muita potencia
+9.2 SRC possui 3 terminais: anodo, catodo e a porta
+9.3 DIAC e TRIAC tiristor de corrente alternada
+9.4 Circuitos digitais são integrados e usam sistemas binários
+
+10 Microcomputadores
+10.1 CPU é um circuito integrado que controla o funcionamento do computador
+10.2 Processador e memória que determinam a velocidade de processamento
+10.3 Unidades de memória primaria e secundaria
+10.4 Interfaces que possibilitam a comunicação do usuario com o microcomputador
+
+11 Evolução dos microcomputadores
+11.1 Evolução
+11.2 Como surgiu o conceito de compatibilidade entre os equipamentos
+11.3 Tipos
+11.4 Rede
+11.5 Periférico
+11.6 Armazemanento de dados
+11.7 Entrada e saida
+
+12 Controladores Lógicos Programáveis (CLPs)
+12.1 
