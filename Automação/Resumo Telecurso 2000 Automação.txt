@@ -72,4 +72,6 @@ Resumo Telecurso 2000 Automação
 11.7 Entrada e saida
 
 12 Controladores Lógicos Programáveis (CLPs)
-12.1 
+12.1 Automação rigida é um sistema automatica que não permite alteração em sua logica
+12.2 Sistema flexivel permite alterações no sistema e componentens
+12.3 CLPs são dispositivos eletronicos que executam logicas combinacionais e sequenciais a partir do sinal de entrada
