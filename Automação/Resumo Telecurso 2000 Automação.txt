@@ -83,4 +83,17 @@ Resumo Telecurso 2000 Automação
 13.4 Quanto mais sofisticado o software maior será a distancia entre usuario e as operações da maquina
 
 14 CAD: conceitos básicos
-14.1 
+14.1 Síntese, analise e otimização
+14.2 Modelamento geométrico
+14.3 Análise de engenharia
+14.4 Avaliação e apresentação do projeto
+14.5 Revisão e documentação
+14.6 Vantagens do CAD
+
+15 Computador, projeto e manufatura  
+15.1 CAPP: Varias formas de planejamento auxiliadas por computador
+15.2 CAM: Computador auxilia no controle, monitoração e suporta da manufatura
+15.3 CAD/CAM: Programa as maquians CNC e mais variadas áreas
+
+16 Máquinas CNC
+16.1
