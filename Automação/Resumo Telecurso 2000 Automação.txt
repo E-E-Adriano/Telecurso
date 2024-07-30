@@ -75,3 +75,12 @@ Resumo Telecurso 2000 Automação
 12.1 Automação rigida é um sistema automatica que não permite alteração em sua logica
 12.2 Sistema flexivel permite alterações no sistema e componentens
 12.3 CLPs são dispositivos eletronicos que executam logicas combinacionais e sequenciais a partir do sinal de entrada
+
+13 Software
+13.1 Sistemas básicos iniciam o funcionamento da máquina
+13.2 Sistemas Operacionais permitem a operação do computador e trazem outros programas para a memoria da maquina
+13.3 Aplicativos são programas especificos para determinadas tarefas
+13.4 Quanto mais sofisticado o software maior será a distancia entre usuario e as operações da maquina
+
+14 CAD: conceitos básicos
+14.1 
