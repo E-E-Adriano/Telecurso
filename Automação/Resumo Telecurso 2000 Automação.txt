@@ -115,3 +115,8 @@ Resumo Telecurso 2000 Automação
 19 Tecnologia do futuro
 19.1 Realidade virtual
 19.2 Inteligência artificial
+
+20 Engenharia simultânea - Universo da Mecânica
+20.1 Conceitos e importância na economia
+20.2 DFA - Projeto Voltado para Montagem e DFM - Projeto Voltado para Manufatura
+20.3 Aplicações nas empresas
