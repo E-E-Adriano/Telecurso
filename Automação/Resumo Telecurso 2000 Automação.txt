@@ -96,4 +96,22 @@ Resumo Telecurso 2000 Automação
 15.3 CAD/CAM: Programa as maquians CNC e mais variadas áreas
 
 16 Máquinas CNC
-16.1
+16.1 Células de torneamento são mini fábricas de peças torneadas
+16.2 Apesar da evolução da automação, ainda é necessario desenvolver progrmas para controle
+16.3 Controle manual existe a interferencia do operador
+16.4 Comandos Numéricos Computadorizados tem a função de controlar os movimentos das máquinas
+
+17 Robôs industriais
+17.1 Robôs são maquinas CNC
+17.2 Robôs desenvolvem atividades de soldagem, manipulação de peças e pintura
+17.3 Número de graus de liberdade corresponde a sua capacidade de movimento
+
+18 Sistemas flexíveis de manufatura
+18.1 Produção em lote ≠ produção em massa
+18.2 Manufatura flexivel graças ao computador
+18.3 Fluxograma forma de representar as fases de uma produção
+18.4 Célula de torneamento = torno CNC + robô industrial + homem + dispositivos acessorios
+
+19 Tecnologia do futuro
+19.1 Realidade virtual
+19.2 Inteligência artificial
